@@ -9,7 +9,8 @@
 
 ```JavaScript
 const IgorSamuel = {
-  nome: "igor Samuel",
+  Nome: "igor Samuel",
+  Idade: 13y,
   Area: "Back-End",
   Linguagens: ["Python, Lua"],
 };
