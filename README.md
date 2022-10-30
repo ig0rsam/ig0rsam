@@ -12,7 +12,6 @@ const IgorSamuel = {
   Nome: "igor Samuel",
   Idade: 13y,
   Area: "Web",
- // Linguagens: ["Python, Lua"],
 };
 ```
 
@@ -20,10 +19,9 @@ const IgorSamuel = {
 
 ## 🚀 Minhas Skills
 
-<code><img height="32" src="https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&logo=wordpress&logoColor=white" alt="PHP"/></code>
-<code><img height="32" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="PYTHON"/></code>
-<code><img height="32" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="LUA"/></code>
-<code><img height="32" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/></code>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML" title="HTML"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS" title="CSS">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript (ECMAScript)" title="JavaScript (ECMAScript)">
 
 ---
 
