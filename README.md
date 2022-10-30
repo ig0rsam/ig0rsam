@@ -11,8 +11,8 @@
 const IgorSamuel = {
   Nome: "igor Samuel",
   Idade: 13y,
-  Area: "Back-End",
-  Linguagens: ["Python, Lua"],
+  Area: "Web",
+ // Linguagens: ["Python, Lua"],
 };
 ```
 
