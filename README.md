@@ -10,8 +10,8 @@
 ```JavaScript
 const IgorSamuel = {
   Nome: "igor Samuel",
-  Idade: 13y,
-  Area: "Web",
+  Idade: 13,
+  Area: "Desenvolvimento Web",
 };
 ```
 
